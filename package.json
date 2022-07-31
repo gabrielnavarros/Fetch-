@@ -1,5 +1,5 @@
 {
-  "homepage": "https://gabrielnavarros.github.io/Fetch",
+  "homepage": "https://gabrielnavarros.github.io/Fetch-",
   "scripts": {
     "start": "snowpack dev",
     "build": "snowpack build",

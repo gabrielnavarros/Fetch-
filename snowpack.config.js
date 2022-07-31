@@ -5,6 +5,6 @@ module.exports = {
     src: '/_dist_',
   },
   buildOptions: {
-    baseUrl: 'https://gabrielnavarros.github.io/Fetch',
+    baseUrl: 'https://gabrielnavarros.github.io/Fetch-',
   },
 }
